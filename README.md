@@ -11,7 +11,7 @@
 
 
 ## Pratikum 2
-![Screenshot](images/Screenshot_2)
+![Screenshot](images/Screenshot_2.png)
 ![Screenshot](images/Screenshot_3.png)
 ![Screenshot](images/Screenshot_23.png)
 
