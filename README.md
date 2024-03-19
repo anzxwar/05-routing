@@ -17,4 +17,15 @@
 
 
 > Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?   
-Routing url static membuat url  cabang menjadi panjang dan ribet
+Routing url static membuat url  cabang menjadi panjang dan ribet  
+
+## Pratikum 3
+![Screenshot](images/Screenshot_31.png)
+
+>To do 1 Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+![Screenshot](images/Screenshot_32.png)   
+
+>Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+![Screenshot](images/Screenshot_33.png)
+
+
